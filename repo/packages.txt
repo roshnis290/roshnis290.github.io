@@ -2,3 +2,6 @@ cpuraminfo
 ELFileManager
 gatekeeper
 zgodx
+Softaculous
+cdns_manager
+repo_browser
